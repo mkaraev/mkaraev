@@ -1,11 +1,13 @@
 ## Hi there 👋
 My name is Maruf.
-I'm a software engineer who is passionate about programming languages, functional programming, and algorithms.
-I'm currently working as a Backend Engineer using: Golang, PostgreSQL, Docker, Kubernetes.
+I'm a software engineer passionate about programming languages, functional programming, and algorithms.
+I'm currently working as a back-end engineer using Golang, PostgreSQL, Docker, and Kubernetes.
 I love programming languages, especially:
 * Clojure
 * Python
 * C - just because Python is implemented in C :)
+
+I helped students learn Python at [Hexlet](https://ru.hexlet.io/) online programming school for many years. 
 
 📫 How to reach me:
 - email: maruf.karaev97@gmail.com
