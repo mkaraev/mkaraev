@@ -11,7 +11,7 @@ I helped students learn Python at [Hexlet](https://ru.hexlet.io/) online program
 
 📫 How to reach me:
 - email: maruf.karaev97@gmail.com
-- telegram messagenger: @mkaraev
+- telegram messenger: @mkaraev
 
 <!--
 **mkaraev/mkaraev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
