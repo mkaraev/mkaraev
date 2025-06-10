@@ -3,8 +3,9 @@ My name is Maruf.
 I'm a software engineer passionate about programming languages, functional programming, and algorithms.
 I'm currently working as a back-end engineer using Golang, PostgreSQL, Docker, and Kubernetes.
 I love programming languages, especially:
-* Clojure
-* Python
+* Clojure - for it's Lisp syntax and immutable data structures
+* Python - for it's simplicity
+* Golang - for it's concurrency model
 * C - just because Python is implemented in C :)
 
 I helped students learn Python at [Hexlet](https://ru.hexlet.io/) online programming school for many years. 
